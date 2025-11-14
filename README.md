@@ -12,10 +12,6 @@
 
 Data Analyst from **Egypt**
 
-<details>
-<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
-
-
 
 </details>
 
