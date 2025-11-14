@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<h2 align="center">Hello World</h2>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
      href="https://github.com/Mahmoud" 
@@ -22,8 +21,6 @@ Data Analyst from **Egypt**
 
 <hr></hr>
 
-![tools\_I\_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
 
 ### **Programming Languages:**
 
