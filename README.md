@@ -30,11 +30,14 @@ Data Analyst from **Egypt**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat\&logo=postgresql\&logoColor=white)
 
-### **Other Tools:**
+### **Frameworks & Tools:**
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 
 ```dart
 // tools_I_use organized
