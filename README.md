@@ -1,11 +1,5 @@
 <div align="center" width="50">
 
-<img src="YOUR_IMAGE_URL_HERE" 
-     alt="I'm Mahmoud" 
-     width="60%" />
-
-<br>
-
 <h2 align="center">I'm Mahmoud</h2>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
