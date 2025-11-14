@@ -4,12 +4,12 @@
 
 ### 👋 Hi, I'm **Mahmoud Eslam**
 
-🇪🇬 Data Analyst from **Egypt**
+Data Analyst from **Egypt**
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
+
 
 </details>
 
@@ -28,7 +28,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat\&logo=postgresql\&logoColor=white)
 
-### **Data & BI Tools:**
+### **Other Tools:**
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
@@ -53,11 +53,8 @@ class About extends Me {
 <div align="center">
 <a href="https://github.com/MahmoudEslam">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-</a>
+
 
 <hr></hr>
 
