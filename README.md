@@ -49,7 +49,6 @@ class About extends Me {
 ```
 
 * <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently learning **Al and Machine learning**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I like exploring **dashboards & visualizations**. <br>
 * <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **Python, SQL, Data Cleaning, or BI Tools**. <br>
 
 <div align="center">
