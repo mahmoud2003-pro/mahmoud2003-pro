@@ -35,8 +35,15 @@ Data Analyst from **Egypt**
   <code><img title="R" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></code>
   <code><img title="Excel" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"></code>
   <code><img title="Power BI" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
+  <code><img title="Tableau" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg"></code> 
   <code><img title="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img title="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img title="JavaScript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+  <code><img title="C++" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/512px-ISO_C%2B%2B_Logo.svg.png"></code>
+  
+</code>
+
+  
 </p>
 
 <hr>
